@@ -10,7 +10,7 @@ function error() {
 Swal.fire({
     icon: 'error',
     title: 'QUE PENA...',
-    text: 'Has fallado pero pueder intentarlo nuevamente!',
+    text: 'Has fallado pero puedes intentarlo nuevamente!',
     footer: '<a href="https://www.elotrolado.net/w/images/4/48/Piranha_plant1_mario_bros3.gif">Aquí tienes una pista</a>'
 });
 }
