@@ -1,4 +1,5 @@
 function mario(){
+    document.querySelector(".card__figure--mario").style.visibility="visible";
     document.querySelector(".card__figure--mario").style.top="-30px";
 }
 
