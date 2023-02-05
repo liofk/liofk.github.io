@@ -62,10 +62,11 @@ text-align: center;
 p{
     font-size: smaller;
     font-weight: bold;
+    font-family: roboto, Arial;
 }
 h2{
     background: var(--color-letra-mario);
-   background-clip: text;
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     -moz-background-clip: text;
